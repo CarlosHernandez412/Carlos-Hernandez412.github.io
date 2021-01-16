@@ -31,11 +31,4 @@ projects:
   summary: Creating a simping parsing program that will fork a Child Process, create a Signal Handler
   tags: ["professional", "Operating Systems","academic"]
   
-- name: Tensorflow
-  logo: /images/sections/projects/toha.png
-  role: Developer
-  timeline: "Jun 2018 - Present"
-  repo: https://github.com/tensorflow/tensorflow
-  #url: ""
-  summary: An Open Source Machine Learning Framework for Everyone.
-  tags: ["professional", "machine-learning","academic"]
+
