@@ -21,8 +21,7 @@ buttons:
 
 # your projects
 projects:
-
- - name: Command Parsing OS
+- name: Command Parsing OS
   logo: /images/sections/projects/CLang.png
   role: Creator
   timeline: "December 2020"
