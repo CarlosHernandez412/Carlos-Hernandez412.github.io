@@ -22,6 +22,15 @@ buttons:
 # your projects
 projects:
 
+- name: Command Parsing OS
+  logo: /images/sections/projects/CLang.png
+  role: Creator
+  timeline: "December 2020"
+  repo: https://github.com/CarlosHernandez412/Command-Parsing-Program-Operating-System
+  #url: ""
+  summary: Creating a simping parsing program that will fork a Child Process, create a Signal Handler
+  tags: ["professional", "Operating Systems","academic"]
+  
 - name: Tensorflow
   logo: /images/sections/projects/toha.png
   role: Developer
