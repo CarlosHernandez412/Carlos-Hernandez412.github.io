@@ -22,7 +22,7 @@ buttons:
 # your projects
 projects:
 
-- name: Command Parsing OS
+ - name: Command Parsing OS
   logo: /images/sections/projects/CLang.png
   role: Creator
   timeline: "December 2020"
@@ -30,5 +30,6 @@ projects:
   #url: ""
   summary: Creating a simping parsing program that will fork a Child Process, create a Signal Handler
   tags: ["professional", "Operating Systems","academic"]
+
   
 
