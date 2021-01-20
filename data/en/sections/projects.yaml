@@ -22,7 +22,7 @@ buttons:
 # your projects
 projects:
 - name: Command Parsing OS
-  logo: /images/sections/projects/CLang.png
+  logo: /images/sections/projects/cpp.png
   role: Creator
   timeline: "December 2020"
   repo: https://github.com/CarlosHernandez412/Command-Parsing-Program-Operating-System
