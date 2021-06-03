@@ -8,11 +8,11 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Full-Stack Developer
+designation: Data Analyst
 
 
 # your resume. this file path should be relative to you "static" directory
-resume: "files/11-12-20 Resume CMH.pdf"
+resume: "files/06-02-21 Resume CMH.pdf"
 
 # a summary about you
 summary: 'I am a Computer Science undergraduate student looking for employment and experience opportunities.'
@@ -23,15 +23,15 @@ socialLinks:
 - name: Github
   icon: "fab fa-github"
   url: "https://github.com/CarlosHernandez412"
-  
+
 - name: Linkedin
   icon: "fab fa-linkedin"
   url: "https://www.linkedin.com/in/carlos-m-hernandez-04/"
- 
+
 - name: Angellist
   icon: "fab fa-angellist"
   url: "https://angel.co/u/carlos-hernandez-106"
-  
+
 
 
 # your soft skills
@@ -44,3 +44,12 @@ softSkills:
 - name: Team Work
   percentage: 90
   color: yellow
+- name: Critical Thinking
+  percentage: 97
+  color: green
+- name: Problem Solving
+  percentage: 95
+  color: violet
+- name: Communication
+  percentage: 100
+  color: red
